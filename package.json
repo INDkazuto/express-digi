@@ -1,0 +1,17 @@
+{
+  "name": "tea-manager",
+  "version": "1.0.0",
+  "description": "tea manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "author": "INDkazuto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
